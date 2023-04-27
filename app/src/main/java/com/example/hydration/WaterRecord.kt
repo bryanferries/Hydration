@@ -10,5 +10,5 @@ class WaterRecord(
     @NonNull
     var day: String,
     @NonNull
-    val glasses: Int
-    )
+    var glasses: Int
+)       // free tostring function
